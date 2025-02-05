@@ -238,8 +238,7 @@ Enables custom fields or logic to be added to standard SAP-delivered views.
 
 5 **Derivation Function**
 
-Facilitates the calculation of derived fields or values within a CDS view.
-Often used for advanced calculations or dynamic data transformations.
+Facilitates the calculation of derived fields or values within a CDS view. They are often used for derivation values for **CDS parameters**.
 
 6 **Transactional**
 
