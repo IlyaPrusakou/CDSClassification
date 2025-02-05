@@ -411,7 +411,7 @@ Enables data preparation for outputs like forms and emails:
 11 **Situation Framework**<br>
 Handles contextual situations and notifications:
 
-11.1 **Situation Anchor**: Defines the primary anchor bussines object for a situation.<br>
+11.1 **Situation Anchor**: Defines the primary anchor business object for a situation.<br>
 
 11.2 **Situation Trigger**: Specifies the events or triggers for a situation.<br>
 
