@@ -411,14 +411,14 @@ Enables data preparation for outputs like forms and emails:
 11 **Situation Framework**<br>
 Handles contextual situations and notifications:
 
-11.1 **Situation Anchor**: Defines the primary context or anchor for a situation.<br>
+11.1 **Situation Anchor**: Defines the primary anchor bussines object for a situation.<br>
 
 11.2 **Situation Trigger**: Specifies the events or triggers for a situation.<br>
 
 11.3 **Situation Data Context**: Provides the data context for evaluating situations.<br>
 
 12 **External Data Provider**<br>
-Integrates data from external sources into the CDS framework I suppose that pattern is imposed exactly for CDS External Entities.
+Integrates data from external sources into the CDS framework. I suppose that pattern is imposed exactly for CDS External Entities.
 
 It's worth mentioning that for hierarchy modeling, we can also distinguish patterns such as **hierarchy source CDS** and **CDS hierarchy directory**. 
 Moreover, CDS hierarchies can be modeled in a **time-dependent** or **permanent** manner.
