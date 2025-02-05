@@ -244,7 +244,7 @@ Often used for advanced calculations or dynamic data transformations.
 6 **Transactional**
 
 Supports transactional use cases.
-Often associated with data modification or interactions in SAP’s transactional scenarios.
+Supports transactional use cases. Often used for modelling business objects(e.g. **RAP objects**) and associated with data modification or interactions in SAP’s transactional scenarios.
 
 ### CDS Purpose
 
