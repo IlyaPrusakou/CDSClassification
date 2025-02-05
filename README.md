@@ -308,10 +308,10 @@ By stability contract:
 These entities can be extended, with specific usage contexts:
 
 1.1 **Use in Key User Apps**<br>
-Designed for extensions via key user tools.
+Extension point is designed for extensions via key user tools.
 
 1.2 **Use in Cloud Development**<br>
-Suitable for extensions in cloud-based development scenarios.
+Extension point is suitable for extensions in cloud-based development scenarios(in **ADT tool**).
 
 1.3 **Both context**<br>
 Can be used in both key user apps and cloud development environments.
@@ -320,10 +320,10 @@ Can be used in both key user apps and cloud development environments.
 These entities are intended for internal system usage:
 
 2.1 **Use in Key User Apps**<br>
-Supports internal usage in key user scenarios.
+View is visible in objects with language version **ABAP for Key Users**.
 
 2.2 **Use in Cloud Development**<br>
-Designed for system-internal usage in cloud development.
+View is visible in objects with language version **ABAP for Cloud Development**.
 
 3 **C2 Use as Remote API**<br>
 These entities are exposed as remote APIs for external consumption.
